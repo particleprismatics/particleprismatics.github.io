@@ -165,6 +165,10 @@ img{ max-width:100%; display:block; }
 .person .az-note{ color:var(--muted); font-family:var(--font-serif); font-style:italic; font-size:15px; }
 .person .az-note strong{ color:var(--text); font-weight:600; font-style:normal; }
 .person .cred{ color:var(--faint); font-size:12px; letter-spacing:0.03em; margin-top:auto; padding-top:14px; }
+.person .pfoot{ margin-top:auto; padding-top:14px; display:flex; flex-direction:column; gap:9px; }
+.person .pfoot .cred{ margin-top:0; padding-top:0; }
+.person .psite{ color:var(--accent); font-size:13px; letter-spacing:0.04em; width:fit-content; border-bottom:1px solid var(--accent-dim); transition:border-color .25s; }
+.person .psite:hover{ border-color:var(--accent); }
 
 /* ── contact ─────────────────────────────────────────────────────────────── */
 .contact{ text-align:center; }
