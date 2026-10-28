@@ -38,5 +38,5 @@ python -m http.server 8000     # then open http://localhost:8000
 
 - **Contact:** `hello@particleprismatics.com` / `licensing@particleprismatics.com`
   (catch-all forwards to the owner).
-- **Demo video:** the featured PhotoDance link points at `youtu.be/Af9nWLuhhR8`.
+- **Demo video:** the featured PhotoDance link points at `youtu.be/pN5OAmYiGdU`.
 - Copy © 2026 Particle Prismatics LLC.
